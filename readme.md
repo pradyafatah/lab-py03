@@ -2,12 +2,12 @@
 
 ## Programs
 
-## Random Number Generator (latiha1.py) 
+## Random Number Generator (latihan1.py) 
 Sebuah program yang akan menggenerate angka random kurang dari 0,5 berdasrkan input user.
 
-![gambar](https://github.com/M-Rakha/labpy03/blob/1696cf8fc99b2e4f84fadb712940dfd7703a7951/Cuplikan%20layar%202024-11-03%20204135.png)
+![gambar](https://github.com/pradyafatah/labpy03/blob/1696cf8fc99b2e4f84fadb712940dfd7703a7951/Cuplikan%20layar%202024-11-03%20204135.png)
 
-## Algorithm
+## Algoritma
 
 ```python
 1. Import random library
@@ -34,9 +34,9 @@ Selesai
 ## Investment Profit Calculator (latihan2.py)
 Program yang menghitung laba bulanan untuk investasi selama 8 bulan dengan tingkat laba yang bervariasi.
 
-![gambar](https://github.com/M-Rakha/labpy03/blob/154efa8f9c34baa5ee984652ea95f37d18a4d14e/Cuplikan%20layar%202024-11-03%20211202.png)
+![gambar](https://github.com/pradyafatah/labpy03/blob/154efa8f9c34baa5ee984652ea95f37d18a4d14e/Cuplikan%20layar%202024-11-03%20211202.png)
 
-## Algorithm
+## Algoritma
 
 ```python
 1. Tetapkan modal awal = 100.000.000
@@ -70,7 +70,7 @@ Total laba adalah: 190000000.0
 ## ATM Sederhana (latihan3.py)
 Program ini akan mensimulasikan mesin ATM sederhana dengan fitur penarikan uang dan pengecekan saldo.
 
-![gambar](https://github.com/M-Rakha/labpy03/blob/ee6328642949cda2e09295197a05bbc6c25030af/Cuplikan%20layar%202024-11-03%20213109.png)
+![gambar](https://github.com/pradyafatah/labpy03/blob/ee6328642949cda2e09295197a05bbc6c25030af/Cuplikan%20layar%202024-11-03%20213109.png)
 
 ## Fitur Program
 1. Menampilkan saldo
